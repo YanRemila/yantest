@@ -1,2 +1,2 @@
-# yantest
+# yan
 repositorytest yan
